@@ -80,7 +80,7 @@ financial-report-summarizer/
 └── README.md              # This file
 ```
 
-## How It Works (For Interviews)
+## How It Works
 
 This project demonstrates:
 
